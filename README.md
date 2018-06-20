@@ -16,3 +16,6 @@ https://playground.arduino.cc/Main/LEDMatrix
 
 ultra-nerf thingiverse:
 https://www.thingiverse.com/thing:2460171
+
+raspberrypi docs:
+https://www.raspberrypi.org/documentation/hardware/raspberrypi/power/README.md
