@@ -19,3 +19,5 @@ https://www.thingiverse.com/thing:2460171
 
 raspberrypi docs:
 https://www.raspberrypi.org/documentation/hardware/raspberrypi/power/README.md
+
+https://www.amazon.com/Raspberry-Pi-Desktop-Starter-Black/dp/B0757ZYW4T
